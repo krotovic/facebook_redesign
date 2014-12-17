@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Facebook Redesign",
+    "description": "This extension applies some style improvements for Facebook page.",
+    "version": "0.2.2",
+    "author": "Lukas Krotovic (lukas@krotovic.cz)",
+    "content_scripts": [
+        {
+            "matches": ["*://facebook.com/*", "*://*.facebook.com/*"],
+            "css": ["fb_redesign_style.css"],
+            "js": ["fb_redesign_script.js"]
+        }
+    ],
+    "icons": {
+        "16": "icon.16.png",
+        "48": "icon.48.png",
+        "128": "icon.128.png"
+    }
+}
