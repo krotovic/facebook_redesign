@@ -7,7 +7,7 @@ This extension will improve some basic design and enables responsive-feature of 
 See [Changelog.md][chngl]
 
 ## License
-This project is developed under MIT license. For details, see [License]("./LICENSE")
+This project is developed under MIT license. For details, see [License](./LICENSE)
 
 [chromestore]: https://chrome.google.com/webstore/detail/facebook-redesign
 [chngl]: ./Changelog.md
