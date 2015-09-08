@@ -9,5 +9,5 @@ See [Changelog.md][chngl]
 ## License
 This project is developed under MIT license. For details, see [License](./LICENSE)
 
-[chromestore]: https://chrome.google.com/webstore/detail/facebook-redesign
+[chromestore]: https://chrome.google.com/webstore/detail/facebook-redesign/ngjljkldickndkkmenhpplajmphbffna
 [chngl]: ./Changelog.md
