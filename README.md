@@ -1,4 +1,4 @@
-# Facebook Redesign [[<small>Chrome Webstore</small>]][chromestore]
+# Facebook Redesign [DISCONTINUED]
 ## This project is in development
 
 This extension will improve some basic design and enables responsive-feature of Facebook.
